@@ -1,6 +1,15 @@
-## Hi there, I'm wycliffe pepela 👋
 
-I'm a BSC student at st paul's university in Computer Science and Engineering, currently doing my thesis on RL.
+Hi there 👋
+ I'm wycliffe pepela
+ I'm a BSC student at st paul's university in Computer Science and Engineering, currently doing my thesis on RL.
+
+🔭 I’m currently working on My Blog
+🌱 I’m currently learning python
+👯 I’m looking to collaborate on Cool Open source projects
+💬 Ask me about : Python 
+📫 How to reach me :wycliffepepela01@gmail.com
+😄 Pronouns: He/him
+⚡ Fun fact: I'm Always serious
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pepelawycliffe&layout=compact&theme=gruvbox)](https://github.com/pepelawycliffe/github-readme-stats)
 
@@ -20,6 +29,18 @@ I'm a BSC student at st paul's university in Computer Science and Engineering, c
 <br />
 <br />
 
+wycliffe pepela's GitHub Stats
+A+
+Total Stars:
+10
+Total Commits (2021):
+726
+Total PRs:
+2
+Total Issues:
+4
+Contributed to:
+4
 ---
 
 
