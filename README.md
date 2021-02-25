@@ -1,6 +1,8 @@
 
 Hi there 👋
+<br>
  I'm wycliffe pepela
+ <br>
  I'm a BSC student at st paul's university in Computer Science and Engineering, currently doing my thesis on RL.
 
 🔭 I’m currently working on My Blog
@@ -28,20 +30,6 @@ Hi there 👋
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 <br />
 <br />
-
-wycliffe pepela's GitHub Stats
-A+
-Total Stars:
-10
-Total Commits (2021):
-726
-Total PRs:
-2
-Total Issues:
-4
-Contributed to:
-4
----
 
 
 
