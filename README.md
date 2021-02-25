@@ -19,7 +19,7 @@ I'm a BSC student at st paul's university in Computer Science and Engineering, c
 <br>
 ⚡ Fun fact: I'm Always serious
 <br>
-<img src="https://github.com/pepelawycliffe/pepelawycliffe/blob/main/code.gif">
+<img src="https://github.com/pepelawycliffe/pepelawycliffe/blob/main/code.gif" width="400">
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pepelawycliffe&layout=compact&theme=gruvbox)](https://github.com/pepelawycliffe/github-readme-stats)
