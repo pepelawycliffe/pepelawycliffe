@@ -1,17 +1,24 @@
 
 Hi there 👋
 <br>
- I'm wycliffe pepela
+I'm wycliffe pepela
  <br>
- I'm a BSC student at st paul's university in Computer Science and Engineering, currently doing my thesis on RL.
+I'm a BSC student at st paul's university in Computer Science and Engineering, currently doing my thesis on RL.
 
 🔭 I’m currently working on My Blog
+<br>
 🌱 I’m currently learning python
+<br>
 👯 I’m looking to collaborate on Cool Open source projects
+<br>
 💬 Ask me about : Python 
+<br>
 📫 How to reach me :wycliffepepela01@gmail.com
+<br>
 😄 Pronouns: He/him
+<br>
 ⚡ Fun fact: I'm Always serious
+<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pepelawycliffe&layout=compact&theme=gruvbox)](https://github.com/pepelawycliffe/github-readme-stats)
 
