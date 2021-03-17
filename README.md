@@ -33,6 +33,7 @@ I'm a BSC student at st paul's university in Computer Science and Engineering, c
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+
 ![](https://img.shields.io/badge/Tools-TensorFlow-informational?style=flat&logo=TensorFlow&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Pytorch-informational?style=flat&logo=Pytorch&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-NodeJS-informational?style=flat&logo=Node.js&logoColor=white&color=2bbc8a)
