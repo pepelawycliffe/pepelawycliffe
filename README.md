@@ -1,4 +1,4 @@
-
+<body style="color:blue;">
 Hi there 👋
 <br>
 I'm wycliffe pepela
@@ -13,12 +13,9 @@ I'm a BSC student at st paul's university in Computer Science and Engineering, c
 <br>
 💬 Ask me about : Python 
 <br>
-📫 How to reach me :wycliffepepela01@gmail.com
+📫 How to reach me : wycliffepepela01@gmail.com
 <br>
-😄 Pronouns: He/him
-<br>
-⚡ Fun fact: I'm Always serious
-<br>
+</body>
 <img src="https://github.com/pepelawycliffe/pepelawycliffe/blob/main/code.gif" width="400">
 
 
