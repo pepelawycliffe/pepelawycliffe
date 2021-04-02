@@ -1,4 +1,4 @@
-<body style="color:blue;">
+<body>
 Hi there 👋
 <br>
 I'm wycliffe pepela
