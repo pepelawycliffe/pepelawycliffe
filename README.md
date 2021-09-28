@@ -17,6 +17,8 @@ I'm a BSC student at st paul's university in Computer Science and Engineering, c
 <br>
 my site 
 https://wycliffewangila.github.io/wycliffepepelaw.github.io/
+portfolio
+https://wycliffepepela.github.io/
 <img src="https://github.com/pepelawycliffe/pepelawycliffe/blob/main/code.gif" width="400">
 
 
