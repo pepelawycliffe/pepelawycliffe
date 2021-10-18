@@ -21,6 +21,8 @@ my site
 portfolio
 🌐 https://wycliffepepela.github.io/
 <br>
+<hr>
+<br>
 <img src="https://github.com/pepelawycliffe/pepelawycliffe/blob/main/code.gif" width="400">
 
 
