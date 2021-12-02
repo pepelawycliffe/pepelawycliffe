@@ -22,6 +22,7 @@ portfolio
 🌐 https://wycliffepepela.github.io/
 <br>
 <hr>
+To work for an organization that promotes creativity and innovation, as well as to contribute to the growth and accomplishment of its goals and vision, while providing Software and IT solutions to satisfy the demands of both customers and the company, and to further my professional career. Python, Android, SQL, Java, PHP, HTML, and Javascript expertise.
 <br>
 <img src="https://github.com/pepelawycliffe/pepelawycliffe/blob/main/code.gif" width="400">
 
