@@ -38,8 +38,8 @@ To work for an organization that promotes creativity and innovation, as well as 
 <a href="https://laravel.com" target="_blank"><img src="https://github.com/pepelawycliffe/pepelawycliffe/blob/main/python-seeklogo.com.svg" width="50"></a>
 <a href="https://laravel.com" target="_blank"><img src="https://github.com/pepelawycliffe/pepelawycliffe/blob/main/nodejs-seeklogo.com.svg" width="50"></a>
 <a href="https://laravel.com" target="_blank"><img src="https://github.com/pepelawycliffe/pepelawycliffe/blob/main/kotlin-1.svg" width="50"></a>
-<a href="https://laravel.com" target="_blank"><img src="https://github.com/pepelawycliffe/pepelawycliffe/blob/main/java-icon.svg" width="50"></a>
-<a href="https://laravel.com" target="_blank"><img src="https://github.com/pepelawycliffe/pepelawycliffe/blob/main/MySQL-Logo.wine.svg" width="50"></a>
+<a href="https://laravel.com" target="_blank"><img src="https://github.com/pepelawycliffe/pepelawycliffe/blob/main/java-icon.svg" width="80"></a>
+<a href="https://laravel.com" target="_blank"><img src="https://github.com/pepelawycliffe/pepelawycliffe/blob/main/MySQL-Logo.wine.svg" width="100"></a>
 
 
 
