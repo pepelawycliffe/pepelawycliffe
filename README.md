@@ -33,17 +33,17 @@ To work for an organization that promotes creativity and innovation, as well as 
 
 ## 🔧 Technologies & Tools
 <a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="200"></a>
-<a href="https://laravel.com" target="_blank"><img src="https://github.com/pepelawycliffe/pepelawycliffe/blob/main/tensorflow-icon.svg" width="200"></a>
-<a href="https://laravel.com" target="_blank"><img src="https://github.com/pepelawycliffe/pepelawycliffe/blob/main/pytorch-icon.svg" width="200"></a>
-<a href="https://laravel.com" target="_blank"><img src="https://github.com/pepelawycliffe/pepelawycliffe/blob/main/python-seeklogo.com.svg" width="200"></a>
-<a href="https://laravel.com" target="_blank"><img src="https://github.com/pepelawycliffe/pepelawycliffe/blob/main/nodejs-seeklogo.com.svg" width="200"></a>
-<a href="https://laravel.com" target="_blank"><img src="https://github.com/pepelawycliffe/pepelawycliffe/blob/main/kotlin-1.svg" width="200"></a>
-<a href="https://laravel.com" target="_blank"><img src="https://github.com/pepelawycliffe/pepelawycliffe/blob/main/java-icon.svg" width="200"></a>
-<a href="https://laravel.com" target="_blank"><img src="https://github.com/pepelawycliffe/pepelawycliffe/blob/main/MySQL-Logo.wine.svg" width="200"></a>
+<a href="https://laravel.com" target="_blank"><img src="https://github.com/pepelawycliffe/pepelawycliffe/blob/main/tensorflow-icon.svg" width="50"></a>
+<a href="https://laravel.com" target="_blank"><img src="https://github.com/pepelawycliffe/pepelawycliffe/blob/main/pytorch-icon.svg" width="50"></a>
+<a href="https://laravel.com" target="_blank"><img src="https://github.com/pepelawycliffe/pepelawycliffe/blob/main/python-seeklogo.com.svg" width="50"></a>
+<a href="https://laravel.com" target="_blank"><img src="https://github.com/pepelawycliffe/pepelawycliffe/blob/main/nodejs-seeklogo.com.svg" width="50"></a>
+<a href="https://laravel.com" target="_blank"><img src="https://github.com/pepelawycliffe/pepelawycliffe/blob/main/kotlin-1.svg" width="50"></a>
+<a href="https://laravel.com" target="_blank"><img src="https://github.com/pepelawycliffe/pepelawycliffe/blob/main/java-icon.svg" width="50"></a>
+<a href="https://laravel.com" target="_blank"><img src="https://github.com/pepelawycliffe/pepelawycliffe/blob/main/MySQL-Logo.wine.svg" width="50"></a>
 
 
 
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=2bbc8a)
+<!-- ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-vscode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
@@ -54,7 +54,7 @@ To work for an organization that promotes creativity and innovation, as well as 
 ![](https://img.shields.io/badge/Tools-Pytorch-informational?style=flat&logo=Pytorch&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-NodeJS-informational?style=flat&logo=Node.js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
-<br />
+<br /> -->
 <br />
 
 
