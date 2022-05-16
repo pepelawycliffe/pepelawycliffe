@@ -19,13 +19,6 @@ I'm a BSC student at st paul's university in Computer Science and Engineering, c
 portfolio
 🌐 https://pepelawycliffe.github.io/
 <br>
-<summary><b>🔥 Github Streaks</b></summary>
-
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=pepelawycliffe&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D" alt="pepelawycliffe" /></p>
-
-<summary><b>📊 Github Contribution Graph</b></summary>
-<p align="center"<a href="#"><img alt="Ashish Kumar Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Trend20&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
-
 <hr>
 To work for an organization that promotes creativity and innovation, as well as to contribute to the growth and accomplishment of its goals and vision, while providing Software and IT solutions to satisfy the demands of both customers and the company, and to further my professional career. Python, Android, SQL, Java, PHP, HTML, and Javascript expertise.
 <br>
