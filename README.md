@@ -20,8 +20,8 @@ portfolio
 🌐 https://pepelawycliffe.github.io/
 <br>
 <summary><b>🔥 Github Streaks</b></summary>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pepelawycliffe&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-<!-- <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Trend20&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="Trend20" /></p> -->
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=pepelawycliffe&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D" alt="pepelawycliffe" /></p>
 
 <summary><b>📊 Github Contribution Graph</b></summary>
 <p align="center"<a href="#"><img alt="Ashish Kumar Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Trend20&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
