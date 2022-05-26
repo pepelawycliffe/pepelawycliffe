@@ -15,7 +15,6 @@ I'm a BSC student at st paul's university in Computer Science and Engineering, c
 <br>
 📫 How to reach me :wycliffepepela01@gmail.com
 <br>
-<br>
 portfolio
 🌐 https://pepelawycliffe.github.io/
 <br>
