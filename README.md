@@ -18,13 +18,14 @@ I'm a BSC student at st paul's university in Computer Science and Engineering, c
 portfolio
 🌐 https://pepelawycliffe.github.io/
 <br>
+links
+https://marvelous-mandazi-158844.netlify.app/
+
+
 <hr>
 To work for an organization that promotes creativity and innovation, as well as to contribute to the growth and accomplishment of its goals and vision, while providing Software and IT solutions to satisfy the demands of both customers and the company, and to further my professional career. Python, Android, SQL, Java, PHP, HTML, and Javascript expertise.
 <br>
 <img src="https://github.com/pepelawycliffe/pepelawycliffe/blob/main/code.gif" width="400">
-
-links
-https://marvelous-mandazi-158844.netlify.app/
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pepelawycliffe&layout=compact&theme=gruvbox)](https://github.com/pepelawycliffe/github-readme-stats)
