@@ -21,7 +21,8 @@ portfolio
 <u>links</u>
 <br>
 https://opencrypto.netlify.app/<br>
-https://sikiza.netlify.app/
+https://sikiza.netlify.app/<br>
+https://open-news.netlify.app/<br>
 
 
 <hr>
