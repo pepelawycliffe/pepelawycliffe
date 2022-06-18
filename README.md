@@ -3,7 +3,7 @@ Hi there 👋
 <br>
 I'm wycliffe pepela
  <br>
-I'm a BSC student at st paul's university in Computer Science and Engineering, currently doing my thesis on RL.
+I'm a BSC student at St Paul's university in Computer Science and Engineering, currently doing my thesis on RL.
 <br>
 🔭 I’m currently working on My Blog
 <br>
