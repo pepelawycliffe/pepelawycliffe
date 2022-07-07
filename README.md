@@ -1,7 +1,7 @@
 
 Hi there 👋
 <br>
-I'm wycliffe pepela
+I'm Wycliffe pepela
  <br>
 I'm a BSC student at St Paul's University in Computer Science and Engineering.
 <br>
