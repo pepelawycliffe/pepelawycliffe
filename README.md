@@ -18,7 +18,7 @@ I'm a BSC student at St Paul's University in Computer Science and Engineering.
 Portfolio
 🌐 https://pepelawycliffe.github.io/
 <br>
-<u>links</u>
+<u>Links</u>
 <br>
 https://opencrypto.netlify.app/<br>
 https://sikiza.netlify.app/<br>
