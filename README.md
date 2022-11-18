@@ -25,6 +25,7 @@ https://sikiza.netlify.app/<br>
 https://open-news.netlify.app/<br>
 https://sportfy-v1.netlify.app/<br>
 https://marketplace.visualstudio.com/items?itemName=wycliffePepela.Live-Postman&ssr=false#review-details <br>
+https://marketplace.visualstudio.com/items?itemName=wycliffePepela.MySQL-tool <br>
 https://play.google.com/store/apps/details?id=com.pepela.NotePd <br>
 
 
